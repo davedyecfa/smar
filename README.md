@@ -4,6 +4,12 @@ SMARTSHEET AUTOMATION
 
 http://smartsheet-platform.github.io/api-docs/
 
+Smartsheets to reference and use:
+
+in production sheet we are trying to automate: https://app.smartsheet.com/b/home?lx=-460eD14qAIUQeDTcApbjg
+sheet to house template to copy from: https://app.smartsheet.com/b/home?lx=s5BUBsQvbqPSwK0UyNC0_A
+test sheet to test copying rows to: https://app.smartsheet.com/b/home?lx=eL173nJ9dQNiBpCyu5Nq4A
+
 The goal is to automate a lot of what is already being done by our development group to manage the development process for new stores.  This is done by tasks and due dates assigned to those tasks.
 
 There are some Tasks that are important to the business, called Milestone Dates, that need to be present on each project, and need to be named consistently.  We also want to give the ability for admins on the sheets to add one-off tasks for a specific project.
