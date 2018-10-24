@@ -2,6 +2,8 @@
 
 SMARTSHEET AUTOMATION
 
+installed node.js SDK using npm install smartsheet.  Documentation at https://github.com/smartsheet-platform/smartsheet-javascript-sdk
+
 http://smartsheet-platform.github.io/api-docs/
 
 Smartsheets to reference and use:
